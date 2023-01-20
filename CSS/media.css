@@ -1,0 +1,151 @@
+@media (max-width:915px){
+    .container{
+        max-width:900px;
+    }
+    .market_links{
+    }
+    .header_txt{
+        font-size: 15px;
+    }
+    .img_link_fuagra{
+        margin-top: 250px;
+    }
+    .img_link_chicken{
+        margin-top: 250px;
+    }
+    .img_link_fish{
+        
+    }
+    img{
+       width: 250px;
+    }
+}
+
+
+
+
+@media (max-width:821px){
+    .container{
+        max-width:800px;
+    }
+    .market_links{
+    }
+    .header_txt{
+        font-size: 15px;
+    }
+    .img_link_fuagra{
+        margin-top: 250px;
+    }
+    .img_link_chicken{
+        margin-top: 250px;
+    }
+    .img_link_fish{
+        
+    }
+    img{
+       width: 250px;
+    }
+}
+
+
+@media (max-width:541px){
+    .container{
+        max-width: 500px;
+    }
+    .market_links{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+    }
+    .header_txt{
+        font-size: 10px;
+        align-items: center;
+        justify-content: center;
+       
+    }
+    .img_link_fuagra{
+        margin-top: 0px;
+    }
+    .img_link_chicken{
+        margin-top: 0px;
+    }
+}
+
+
+@media (max-width:416px){
+    .container{
+        max-width: 400px;
+    }
+    .market_links{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+    }
+    .header_txt{
+        font-size: 10px;
+        align-items: center;
+        justify-content: center;
+       
+    }
+    .img_link_fuagra{
+        margin-top: 0px;
+    }
+    .img_link_chicken{
+        margin-top: 0px;
+    }
+}
+
+
+@media (max-width:376px){
+    .container{
+        max-width: 350px;
+    }
+    .market_links{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+    }
+    .header_txt{
+        font-size: 10px;
+        align-items: center;
+        justify-content: center;
+       
+    }
+    .img_link_fuagra{
+        margin-top: 0px;
+    }
+    .img_link_chicken{
+        margin-top: 0px;
+    }
+}
+
+
+
+@media (max-width:256px){
+    .container{
+        max-width: 200px;
+    }
+    .market_links{
+        display: grid;
+
+        justify-content: center;
+        align-items: center;
+    }
+    .header_txt{
+        font-size: 10px;
+        align-items: center;
+        justify-content: center;
+       
+    }
+    .img_link_fuagra{
+        margin-top: 0px;
+    }
+    .img_link_chicken{
+        margin-top: 0px;
+    }
+}
+
+
+
+
+

@@ -1,0 +1,41 @@
+
+body{
+    box-sizing: border-box;
+    background-image: url(../IMG/Pattern.png);
+    text-decoration: none;
+    font-family: 'Exo 2', thin;
+    font-size: 36px;
+    color: white;
+    height: 100vh;
+    
+    
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto; 
+    padding: 0 20px;  
+}
+
+.header_txt{
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.market_links{
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    cursor: pointer;
+    padding: 10px;
+}
+
+
+
+
+
+
